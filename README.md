@@ -2,7 +2,7 @@
 
 This project is a beginner-friendly exploratory data analysis (EDA) of the classic Titanic dataset, designed to practice Python, pandas, seaborn, and version control using Git and GitHub.
 
-The Notebook used for analysis can be found in `/notebooks/eda_titanic.ipynb` and all generated plots/visualizations in `/figures`.
+The Notebook used for analysis can be found in `./notebooks/eda_titanic.ipynb` and all generated plots/visualizations in `./figures`.
 
 ## Project Goals
 
