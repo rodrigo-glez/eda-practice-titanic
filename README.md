@@ -2,12 +2,14 @@
 
 This project is a beginner-friendly exploratory data analysis (EDA) of the classic Titanic dataset, designed to practice Python, pandas, seaborn, and version control using Git and GitHub.
 
+The Notebook used for analysis can be found in `/notebooks/eda_titanic.ipynb` and all generated plots/visualizations in `/figures`.
+
 ## Project Goals
 
 - Practice essential data manipulation and visualization techniques using Python (pandas, seaborn, matplotlib).
 - Analyze key variables related to passenger survival in the Titanic dataset.
 - Gain hands-on experience with version control using Git and GitHub in a professional development environment.
-- Lay the groundwork for a future project involving predictive modeling (e.g., logistic or linear regression).
+- Lay the groundwork for a future project involving predictive modeling.
 
 ## Dataset
 
@@ -17,12 +19,16 @@ This project is a beginner-friendly exploratory data analysis (EDA) of the class
 ## Tools Used
 
 - Python 3.12
-- pandas, seaborn, matplotlib
-- Jupyter Notebooks in VS Code
+- pandas, seaborn, matplotlib, missingno
+- Jupyter Notebook in VS Code
 - Git & GitHub for version control
 
 ## Key Insights
 
+- Unfortunately, most passengers did not survive the Titanic disaster, as is widely known.
+
 - Gender and age played a critical role in survival: women and children had significantly higher survival rates, reflecting the "women and children first" evacuation policy.
+
 - Passenger class and fare were strong indicators of survival — passengers in first class and those who paid higher fares were more likely to survive, revealing a clear socioeconomic divide.
+
 - These patterns suggest non-random survival behavior, making the dataset well-suited for future predictive modeling based on selected features.
