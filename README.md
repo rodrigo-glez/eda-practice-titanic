@@ -1,6 +1,6 @@
 # Titanic Dataset EDA - EDA & Viz. Practice in Python
 
-This beginner-friendly project explores the classic Titanic dataset through basic exploratory data analysis (EDA), aiming to uncover factors that influenced survival while providing hands-on practice with Python, pandas, seaborn, and version control using Git and GitHub.
+This beginner-friendly, practice project explores the classic Titanic dataset through basic exploratory data analysis (EDA), aiming to uncover factors that influenced survival while providing hands-on practice with Python, pandas, seaborn, and version control using Git and GitHub.
 
 The Notebook used for analysis can be found in `./notebooks/eda_titanic.ipynb` and all generated plots/visualizations in `./figures`.
 
